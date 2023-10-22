@@ -1,6 +1,6 @@
 package br.com.leromaya;
 
-import br.com.leromaya.controller.GerenciadorScoresArquivo;
+import br.com.leromaya.model.dao.GerenciadorScoresArquivo;
 import br.com.leromaya.view.FrontScores;
 
 /*

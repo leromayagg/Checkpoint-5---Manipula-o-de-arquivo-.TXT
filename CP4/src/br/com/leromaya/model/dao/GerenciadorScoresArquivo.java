@@ -1,4 +1,4 @@
-package br.com.leromaya.controller;
+package br.com.leromaya.model.dao;
 
 import br.com.leromaya.controller.GerenciadorScores;
 import br.com.leromaya.model.vo.Score;
